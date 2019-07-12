@@ -35,9 +35,11 @@ _Please fill me in_
 
 ## Base Modules
 
+See https://www.upyum.com/cgit.cgi/hypergiant/tree/hypergiant.egg for the latest dependencies
+
 Run the following command:
 
-    chicken-install opengl-glew glfw3 gl-utils gl-math glls hyperscene gl-type soil noise
+    chicken-install glfw3 glls epoxy gl-utils gl-math hyperscene gl-type soil noise
 
 This will install all the dependencies for the Hypergiant chicken module
 
